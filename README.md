@@ -21,9 +21,14 @@ To run the notebook where duplicates are generated, you need an API key from [Op
 To run the notebook LOCALLY, open the `duplicate_reports.ipynb` file using [VS Code](https://code.visualstudio.com/) or [Jupyter Labs](https://jupyterlab.readthedocs.io).
 
 **Methods Used to Identify Duplicates:**
-- Sentence transformers
+- Cosine similarity using TFIDF
+- Levenshtein
 - Fuzzy matching
-- (Specify additional method)
+- Embeddings 
+    - Sentence transformers ('distilbert-base-nli-mean-tokens')
+    - Sentence transformers ('all-MiniLM-L6-v2')
+
+
 
 **Results:**
 The results, including any graphs or visualizations, can be found in the notebook.
