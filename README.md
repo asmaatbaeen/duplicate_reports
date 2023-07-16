@@ -1,5 +1,5 @@
-# duplicate reports
- This repo focuses on the evaluation of various techniques for identifying duplicate. It aims to explore and compare different methods to determine which approach is most effective in identifying and handling duplicates within a dataset.
+# Text duplicate detection
+ This repo focuses on the evaluation of various techniques for identifying duplicates. It aims to explore and compare different methods to determine which approach is most effective in identifying and handling duplicates within a dataset.
  
 ## Getting Started
 
@@ -13,7 +13,7 @@ $ poetry install
 ```
  
 ## Notebooks
-This section covers notebook that used to run to produce the various outputs  from the presented data
+This section covers the notebook that used to run to produce the various outputs  from the presented data.
 
 African-universities-quantitative-ecology
 
