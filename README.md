@@ -6,6 +6,7 @@ The goal is to determine if a system has already received a particular piece of 
 The dataset used consists of transport-related incident tweets, which can be found in the tweets_data folder. To ensure a sufficient number of duplicate tweets with information on the same incident, chatGPT was utilized to restructure the tweet text.
 
 **Getting Started:**
+
 *Python 3.11*
 You will need Python 3.11 installed on your machine.
 
