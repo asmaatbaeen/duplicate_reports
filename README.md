@@ -7,7 +7,7 @@ The dataset used consists of transport-related incident tweets, which can be fou
 
 **Getting Started:**
 
-*Python 3.11*
+*Python 3.11:*
 You will need Python 3.11 installed on your machine.
 
 *Poetry:*
