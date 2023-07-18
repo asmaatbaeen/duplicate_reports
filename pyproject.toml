@@ -13,6 +13,8 @@ blis = "^0.9.1"
 google-cloud = "^0.34.0"
 google-cloud-storage = "^2.9.0"
 google-cloud-bigquery = "^3.11.1"
+openai = "^0.27.8"
+python-dotenv = "^1.0.0"
 
 
 [build-system]

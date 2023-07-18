@@ -2,3 +2,4 @@
 coatl-prod-e32b9c3f2d6f.json
 *.parquet
 *csv
+.DS_Store
