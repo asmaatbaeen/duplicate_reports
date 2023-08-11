@@ -4,7 +4,7 @@ from dotenv import dotenv_values, find_dotenv
 import os
 config = dotenv_values(find_dotenv())
   
-openai.api_key = config['openai_api_key']
+openai.api_key = "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"
  
 # Function to Rephrase text using OpenAI
 def rewrite_text(text):
